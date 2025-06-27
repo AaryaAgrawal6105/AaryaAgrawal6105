@@ -1,53 +1,71 @@
-# 👋 Hi, I'm Aarya Agrawal
+<h1 align="center">Hi 👋, I'm Aarya Agrawal</h1>
+<h3 align="center">Full Stack Web Developer & AI/ML Enthusiast</h3>
+
+---
 
 ## 🚀 About Me
-I'm a **Full Stack Web Developer** and an **AI/ML enthusiast** with a passion for building modern web applications and experimenting with intelligent systems. I enjoy solving real-world problems through scalable and efficient solutions.
 
-- 🔭 Currently building: AI-integrated web applications
-- 🌱 Currently learning: Machine Learning algorithms and system design
-- 💬 Ask me about: React, Node.js, Express, MongoDB, AI basics, or how to get started with full stack projects
-- 📫 Reach me at: aarya6105@gmail.com | [LinkedIn Profile] (add your links below)
-- ⚡ Fun fact: I often turn side projects into full-scale web platforms for fun 😄
+I'm a passionate **Full Stack Web Developer** with a growing interest in **Artificial Intelligence and Machine Learning**. I enjoy building scalable web apps, solving complex problems, and learning emerging technologies that make a difference.
+
+- 🔭 Currently working on: AI-integrated web platforms
+- 🌱 Learning: Machine Learning algorithms and system architecture
+- 💬 Ask me about: Full Stack Development, React, Node.js, MongoDB, Express
+- 📫 Reach me at: aarya6105@gmail.com | [LinkedIn](https://linkedin.com/in/your-profile)
+- ⚡ Fun fact: I love turning random ideas into functional apps just for fun 😄
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+<div align="center">
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+### 🌐 Frontend  
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+### 🔧 Backend  
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</div>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔗 TripHub
-A collaborative trip planning platform that allows users to organize and manage travel plans with friends. It features real-time collaboration tools, destination suggestions, and activity scheduling for seamless group travel experiences.  
-🔗 [GitHub Repo](https://github.com/AaryaAgrawal6105/TripHub) *(Replace with your actual repo link)*
+### 🧳 TripHub  
+> A collaborative trip planning platform that helps users organize and coordinate travel plans with friends. Includes destination suggestions, scheduling, and shared planning features for a smooth group travel experience.
+
+🔗 [GitHub Repository](https://github.com/AaryaAgrawal6105/TripHub) *(Add actual link)*
 
 ---
 
-### 🔗 ChatApp
-A fully functional real-time messaging application built using Socket.IO. Users can send and receive messages instantly in individual and group chats. Designed with scalability and responsiveness in mind.  
-🔗 [GitHub Repo](https://github.com/AaryaAgrawal6105/ChatApp) *(Replace with your actual repo link)*
+### 💬 ChatApp  
+> A real-time messaging application built with Socket.IO, enabling seamless individual and group chats with a modern, responsive UI and scalable backend.
+
+🔗 [GitHub Repository](https://github.com/AaryaAgrawal6105/ChatApp) *(Add actual link)*
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AaryaAgrawal6105&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AaryaAgrawal6105&layout=compact)
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AaryaAgrawal6105&theme=default" alt="GitHub Streak Stats" />  
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryaAgrawal6105&layout=compact&theme=default" alt="Top Languages" />
+
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=internet-explorer)](https://your-portfolio-link.com)
-
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=internet-explorer&logoColor=white"/></a>
+</p>
+  
