@@ -7,7 +7,6 @@
 
 I'm a passionate **Full Stack Web Developer** with a growing interest in **Artificial Intelligence and Machine Learning**. I enjoy building scalable web apps, solving complex problems, and learning emerging technologies that make a difference.
 
-- 🔭 Currently working on: AI-integrated web platforms
 - 🌱 Learning: Machine Learning algorithms and system architecture
 - 💬 Ask me about: Full Stack Development, React, Node.js, MongoDB, Express
 - 📫 Reach me at: aarya6105@gmail.com | [LinkedIn](https://linkedin.com/in/your-profile)
@@ -38,14 +37,14 @@ I'm a passionate **Full Stack Web Developer** with a growing interest in **Artif
 ### 🧳 TripHub  
 > A collaborative trip planning platform that helps users organize and coordinate travel plans with friends. Includes destination suggestions, scheduling, and shared planning features for a smooth group travel experience.
 
-🔗 [GitHub Repository](https://github.com/AaryaAgrawal6105/TripHub) *(Add actual link)*
+🔗 [GitHub Repository](https://github.com/AaryaAgrawal6105/TripHub)
 
 ---
 
 ### 💬 ChatApp  
 > A real-time messaging application built with Socket.IO, enabling seamless individual and group chats with a modern, responsive UI and scalable backend.
 
-🔗 [GitHub Repository](https://github.com/AaryaAgrawal6105/ChatApp) *(Add actual link)*
+🔗 [GitHub Repository](https://github.com/AaryaAgrawal6105/ChatApp) 
 
 ---
 
@@ -53,8 +52,6 @@ I'm a passionate **Full Stack Web Developer** with a growing interest in **Artif
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AaryaAgrawal6105&theme=default" alt="GitHub Streak Stats" />  
-<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryaAgrawal6105&layout=compact&theme=default" alt="Top Languages" />
 
 </div>
