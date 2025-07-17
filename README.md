@@ -44,7 +44,7 @@ I'm a passionate **Full Stack Web Developer** with a growing interest in **Artif
 ### 💬 ChatApp  
 > A real-time messaging application built with Socket.IO, enabling seamless individual and group chats.
 
-🔗 [GitHub Repository](https://github.com/AaryaAgrawal6105/chat_App) 
+🔗 [GitHub Repository](https://github.com/AaryaAgrawal6105/QuickChat) 
 
 ---
 
